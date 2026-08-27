@@ -1,0 +1,13 @@
+{
+  "name": "my-plugin-marketplace",
+  "owner": {
+    "name": "Sudharsan"
+  },
+  "plugins": [
+    {
+      "name": "construction",
+      "source": "./construction",
+      "description": "Generates a house-build timeline spreadsheet (phases, tasks, start/end dates, duration) for planning construction or renovation projects."
+    }
+  ]
+}
