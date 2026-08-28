@@ -4,6 +4,6 @@
   "description": "Generates a house-build timeline spreadsheet (phases, tasks, start/end dates, duration) for planning construction or renovation projects.",
   "author": { "name": "Sudharsan" },
   "skills": [
-    "./skills/construction"
+    "./skills"
   ]
 }
