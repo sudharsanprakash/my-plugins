@@ -1,5 +1,9 @@
 {
-  "name": "my-plugins",
+  "name": "construction",
   "version": "1.0.0",
-  "description": "This is a new plugin just created for testing purpose."
+  "description": "Generates a house-build timeline spreadsheet (phases, tasks, start/end dates, duration) for planning construction or renovation projects.",
+  "author": { "name": "Sudharsan" },
+  "skills": [
+    "./skills/construction"
+  ]
 }
